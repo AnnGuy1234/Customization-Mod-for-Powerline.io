@@ -1,5 +1,5 @@
-# Customization Mod for Slither.io (C Mod)
-C Mod for slither.io
+# Customization Mod for Powerline.io (C Mod)
+C Mod for powerline.io
 
 # Features
  - [ ] New UI
