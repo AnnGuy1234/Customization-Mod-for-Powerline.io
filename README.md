@@ -2,8 +2,8 @@
 New user interface for slither.io
 
 # Features
- - [x] New UI
- - [x] Updated CSS
+ - [ ] New UI
+ - [ ] Updated CSS
  - [ ] GUI
  - [ ] Dark/Light Theme
  - [ ] Let user PICK custom theme
