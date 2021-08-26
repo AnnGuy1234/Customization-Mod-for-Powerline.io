@@ -10,11 +10,17 @@ New user interface for slither.io
 
 # Index
 [Features](https://github.com/LightLordYT/Modded-UI-for-Slither.io/blob/main/README.md#features)
+
 [Important Awareness](https://github.com/LightLordYT/Modded-UI-for-Slither.io/blob/main/README.md#important-awareness)
+
 [Installation](https://github.com/LightLordYT/Modded-UI-for-Slither.io/blob/main/README.md#installation)
+
 [Contact Information](https://github.com/LightLordYT/Modded-UI-for-Slither.io/blob/main/README.md#contact-information)
-[Contribution]: (https://github.com/LightLordYT/Modded-UI-for-Slither.io/blob/main/README.md#contribution)
+
+[Contribution](https://github.com/LightLordYT/Modded-UI-for-Slither.io/blob/main/README.md#contribution)
+
 [Updates](https://github.com/LightLordYT/Modded-UI-for-Slither.io/blob/main/README.md#updates)
+
 [My Youtube Channel](https://github.com/LightLordYT/Modded-UI-for-Slither.io/blob/main/README.md#my-youtube-channel-optional)
 
 
