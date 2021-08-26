@@ -1,4 +1,4 @@
-# Modded UI for Slither.io
+# Customization Mod for Slither.io (C Mod)
 New user interface for slither.io
 
 # Features
