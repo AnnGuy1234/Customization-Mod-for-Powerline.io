@@ -1,5 +1,5 @@
 # Customization Mod for Slither.io (C Mod)
-New user interface for slither.io
+C Mod for slither.io
 
 # Features
  - [ ] New UI
