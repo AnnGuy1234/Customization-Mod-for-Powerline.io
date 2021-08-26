@@ -27,7 +27,7 @@ C Mod for powerline.io
 
 
 # IMPORTANT AWARENESS
-some scripts unfortunately contain code that can take your personal information or data. Watch out for that. DON'T COME COMPLAINING THERE IS A VIRUS IT IS OPENSOURCE. This script does not contain any sort of virus or anything the code is available in entire.js(https://github.com/LightLordYT/Customization-Mod-for-Powerline.io/blob/main/entire.js) anyway. 
+some scripts unfortunately contain code that can take your personal information or data. Watch out for that. DON'T COME COMPLAINING THERE IS A VIRUS IT IS OPENSOURCE. This script does not contain any sort of virus or anything the code is available in entire.js(https://github.com/LightLordYT/Customization-Mod-for-Powerline.io/blob/main/cmod.js) anyway. 
 
 # Installation
 I don't think it even works if you paste this code into the console(inspect element) and it is unnecessary anyway since tampermonkey is a code executor extension. So basically copy paste code into new tampermonkey script(delete current code in the new script first) and press file save. GO TO https://github.com/LightLordYT/Customization-Mod-for-Powerline.io/blob/main/ui.js COPY THE CODE AND PASTE INTO NEW TAMPERMONKEY SCRIPT MAKE SURE THE CODE IN NEW SCRIPT IS FIRST DELETED BEFORE PASTING NEW SCRIPT MAKE SURE TO GO TO THE TAMPERMONKEY DASHBOARD AND TURN THE SCRIPT ON. THEN REFRESH SLITHER.IO
