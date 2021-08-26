@@ -9,21 +9,21 @@ C Mod for powerline.io
  - [ ] Let user PICK custom theme
 
 # Index
-[Features](https://github.com/LightLordYT/Customization-Mod-for-Slither.io/blob/main/README.md#features)
+[Features](https://github.com/LightLordYT/Customization-Mod-for-Powerline.io/blob/main/README.md#features)
 
-[Important Awareness](https://github.com/LightLordYT/Customization-Mod-for-Slither.io/blob/main/README.md#important-awareness)
+[Important Awareness](https://github.com/LightLordYT/Customization-Mod-for-Powerline.io/blob/main/README.md#important-awareness)
 
-[Installation](https://github.com/LightLordYT/Customization-Mod-for-Slither.io/blob/main/README.md#installation)
+[Installation](https://github.com/LightLordYT/Customization-Mod-for-Powerline.io/blob/main/README.md#installation)
 
-[Contact Information](https://github.com/LightLordYT/Customization-Mod-for-Slither.io/blob/main/README.md#contact-information)
+[Contact Information](https://github.com/LightLordYT/Customization-Mod-for-Powerline.io/blob/main/README.md#contact-information)
 
-[Contribution](https://github.com/LightLordYT/Customization-Mod-for-Slither.io/blob/main/README.md#contribution)
+[Contribution](https://github.com/LightLordYT/Customization-Mod-for-Powerline.io/blob/main/README.md#contribution)
 
-[Updates](https://github.com/LightLordYT/Customization-Mod-for-Slither.io/blob/main/README.md#updates)
+[Updates](https://github.com/LightLordYT/Customization-Mod-for-Powerline.io/blob/main/README.md#updates)
 
-[My Youtube Channel](https://github.com/LightLordYT/Customization-Mod-for-Slither.io/blob/main/README.md#my-youtube-channel-optional)
+[My Youtube Channel](https://github.com/LightLordYT/Customization-Mod-for-Powerline.io/blob/main/README.md#my-youtube-channel-optional)
 
-[License](https://github.com/LightLordYT/Customization-Mod-for-Slither.io/blob/main/README.md#license)
+[License](https://github.com/LightLordYT/Customization-Mod-for-Powerline.io/blob/main/README.md#license)
 
 
 # IMPORTANT AWARENESS
