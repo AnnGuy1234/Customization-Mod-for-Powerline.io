@@ -1,4 +1,4 @@
-# Modded UI for Slither.io
+# Modded UI for powerline.io
 New user interface for slither.io
 
 # Features
