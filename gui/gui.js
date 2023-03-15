@@ -1,2 +1,2 @@
 var menubar = BarProp
-console.log(length);
+console.log(length * 2);
